@@ -1,0 +1,25 @@
+{
+  "pytania":[
+    {
+      "tresc": "kim jest franek",
+      "odpa": "kim",
+      "odpb": "jest",
+      "odpc": "franek",
+      "poprawna": "kim jest franek"
+    },
+    {
+      "tresc": "czy mam dementie",
+      "odpa": "nie",
+      "odpb": "nie",
+      "odpc": "niewiem",
+      "poprawna": 4
+    },
+    {
+      "tresc": "kim jest franek",
+      "odpa": "kim jest franek",
+      "odpb": "kosiarką",
+      "odpc": "14",
+      "poprawna": "tak"
+    }
+  ]
+}
