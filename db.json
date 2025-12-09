@@ -5,21 +5,21 @@
       "odpa": "kim",
       "odpb": "jest",
       "odpc": "franek",
-      "poprawna": "odp2"
+      "poprawna": 2
     },
     {
       "tresc": "czy mam dementie",
       "odpa": "nie",
       "odpb": "nie",
       "odpc": "niewiem",
-      "poprawna": "odp3"
+      "poprawna": 3
     },
     {
       "tresc": "kim jest franek",
       "odpa": "kim jest franek",
       "odpb": "kosiarką",
       "odpc": "14",
-      "poprawna": "odp1"
+      "poprawna": 1
     }
   ]
 }
